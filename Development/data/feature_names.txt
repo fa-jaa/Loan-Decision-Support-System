@@ -1,0 +1,43 @@
+loan_amount_k
+applicant_income_k
+co_applicant_status
+loan_to_income_ratio
+loan_type_Conventional
+loan_type_FHA-insured
+loan_type_FSA/RHS-guaranteed
+loan_type_VA-guaranteed
+purpose_Home improvement
+purpose_Home purchase
+purpose_Refinancing
+property_type_Manufactured housing
+property_type_Multifamily dwelling
+property_type_One-to-four family dwelling (other than manufactured housing)
+lien_status_Not secured by a lien
+lien_status_Secured by a first lien
+lien_status_Secured by a subordinate lien
+owner_occupancy_Not applicable
+owner_occupancy_Not owner-occupied as a principal dwelling
+owner_occupancy_Owner-occupied as a principal dwelling
+applicant_race_American Indian or Alaska Native
+applicant_race_Asian
+applicant_race_Black or African American
+applicant_race_Native Hawaiian or Other Pacific Islander
+applicant_race_Not applicable
+applicant_race_White
+applicant_race_information not provided
+applicant_ethnicity_Hispanic or Latino
+applicant_ethnicity_Not Hispanic or Latino
+applicant_ethnicity_Not applicable
+applicant_ethnicity_information not provided
+applicant_sex_Female
+applicant_sex_Male
+region_Capital Region
+region_Central NY
+region_Finger Lakes
+region_Hudson Valley
+region_Long Island
+region_Mohawk Valley
+region_NYC
+region_North Country
+region_Southern Tier
+region_Western NY

@@ -1,0 +1,105 @@
+consent,understanding_chart1,interpretability_chart1,usefulness_chart1,trust_chart1,loan_decision_chart1,understanding_chart2,interpretability_chart2,usefulness_chart2,trust_chart2,loan_decision_chart2,understanding_chart3,interpretability_chart3,usefulness_chart3,trust_chart3,loan_decision_chart3,improvement_suggestion,preferred_chart,ml_experience,finance_experience
+True,,,,,,,,,,,,,,,,,,,
+True,3.0,4.0,3.0,3.0,"Rejected ❌
+ ",4.0,4.0,4.0,4.0,"Approved ✅
+  ",2.0,3.0,2.0,2.0,Rejected ❌  ,"Having such individual input gives a score for each. Hiwever, adding a weighted score for each that aggregates into a final single score would be really helpful. Wherein if the overall score is below specific rate it would be automatically rejected and if above it quality for next assememt level or final approval. ",Decision Plot,I have intermediate knowledge or experience,"No ❌
+ "
+True,4.0,2.0,3.0,2.0,"Rejected ❌
+ ",1.0,3.0,3.0,1.0,"Approved ✅
+  ",3.0,3.0,1.0,1.0,Rejected ❌  ,Easier to read.  But it needs modification and better explanation,Waterfall Plot,I have some basic knowledge,"No ❌
+ "
+True,4.0,4.0,3.0,3.0,"Approved ✅
+  ",4.0,3.0,3.0,4.0,"Rejected ❌
+ ",4.0,4.0,4.0,4.0,Rejected ❌  ,,LIME Bar Chart,I have intermediate knowledge or experience,Yes  ✅
+True,3.0,3.0,3.0,2.0,"Approved ✅
+  ",3.0,3.0,3.0,2.0,"Rejected ❌
+ ",2.0,2.0,2.0,2.0,Rejected ❌  ,,Waterfall Plot,I have some basic knowledge,Yes  ✅
+True,3.0,3.0,3.0,3.0,"Approved ✅
+  ",3.0,4.0,3.0,3.0,"Approved ✅
+  ",3.0,3.0,3.0,3.0,Rejected ❌  ,,Decision Plot,I have some basic knowledge,Yes  ✅
+True,3.0,3.0,3.0,3.0,"Approved ✅
+  ",3.0,3.0,3.0,3.0,"Approved ✅
+  ",3.0,3.0,3.0,3.0,Rejected ❌  ,,,I have some basic knowledge,"No ❌
+ "
+True,3.0,3.0,3.0,2.0,"Approved ✅
+  ",4.0,4.0,4.0,3.0,"Approved ✅
+  ",4.0,4.0,3.0,3.0,Rejected ❌  ,,Decision Plot,I have advanced knowledge or experience,"No ❌
+ "
+True,1.0,1.0,1.0,1.0,"Rejected ❌
+ ",1.0,1.0,1.0,1.0,"Rejected ❌
+ ",1.0,1.0,1.0,1.0,Rejected ❌  ,,Decision Plot,I have some basic knowledge,Yes  ✅
+True,4.0,2.0,3.0,3.0,"Approved ✅
+  ",4.0,3.0,2.0,2.0,"Rejected ❌
+ ",4.0,4.0,4.0,4.0,Rejected ❌  ,"Having the model assess the future cashflow potential of the person to determine tbeir ability to pay. If the model is able to accessthe historical bank statements of the applicant, plus determining the age of the applicant, these will be good inputs for the model to assess previous historical cashflow and potential future cashflow bases on age and approximate retirement age.",LIME Bar Chart,I have some basic knowledge,"No ❌
+ "
+True,3.0,3.0,3.0,3.0,"Approved ✅
+  ",3.0,3.0,3.0,,"Approved ✅
+  ",3.0,3.0,3.0,3.0,Rejected ❌  ,,LIME Bar Chart,I have intermediate knowledge or experience,Yes  ✅
+True,1.0,2.0,1.0,1.0,"Approved ✅
+  ",2.0,3.0,3.0,2.0,"Approved ✅
+  ",2.0,2.0,2.0,1.0,Approved ✅   ,For the graphs to be easily understood / read there should be a summation bar at the bottom for total red total green so it would be easy to see the summation of the comparison of green ( approval ) to red ( rejection),LIME Bar Chart,I have little to no experience,"No ❌
+ "
+True,3.0,2.0,3.0,4.0,"Approved ✅
+  ",4.0,3.0,2.0,2.0,"Approved ✅
+  ",1.0,4.0,3.0,2.0,Rejected ❌  ,,Waterfall Plot,I have intermediate knowledge or experience,"No ❌
+ "
+True,4.0,4.0,4.0,4.0,"Approved ✅
+  ",4.0,4.0,4.0,4.0,,4.0,4.0,4.0,4.0,Rejected ❌  ,"A helpful improvement would be adding concise tooltips or labels that explain each feature’s role and contribution more clearly (e.g., “higher income decreases risk”). This would make it easier for non-technical users to interpret the graph without prior machine learning knowledge. W",LIME Bar Chart,I have intermediate knowledge or experience,"No ❌
+ "
+True,3.0,1.0,3.0,4.0,"Approved ✅
+  ",3.0,1.0,3.0,3.0,"Approved ✅
+  ",3.0,2.0,2.0,3.0,Rejected ❌  ,Understanding the function f (x) and it's relevant to the task,Decision Plot,I have intermediate knowledge or experience,"No ❌
+ "
+True,2.0,2.0,2.0,1.0,"Rejected ❌
+ ",2.0,2.0,2.0,1.0,"Rejected ❌
+ ",3.0,3.0,3.0,2.0,Rejected ❌  ,,LIME Bar Chart,I have little to no experience,"No ❌
+ "
+True,4.0,3.0,4.0,4.0,"Rejected ❌
+ ",1.0,1.0,1.0,1.0,"Rejected ❌
+ ",4.0,3.0,4.0,4.0,Rejected ❌  ,Maybe clearer ratios and figures,Waterfall Plot,I have intermediate knowledge or experience,Yes  ✅
+True,3.0,2.0,3.0,3.0,"Approved ✅
+  ",3.0,2.0,2.0,2.0,"Approved ✅
+  ",,,,,,,Waterfall Plot,I have some basic knowledge,"No ❌
+ "
+True,4.0,3.0,3.0,3.0,"Rejected ❌
+ ",1.0,1.0,1.0,1.0,"Rejected ❌
+ ",2.0,2.0,2.0,2.0,Rejected ❌  ,,Waterfall Plot,I have some basic knowledge,Yes  ✅
+True,2.0,2.0,3.0,3.0,"Approved ✅
+  ",2.0,2.0,2.0,3.0,"Approved ✅
+  ",1.0,3.0,1.0,2.0,Approved ✅   ,Clear definition of approval/rejection,,I have little to no experience,"No ❌
+ "
+True,2.0,4.0,2.0,2.0,"Approved ✅
+  ",3.0,3.0,3.0,3.0,"Approved ✅
+  ",1.0,3.0,1.0,1.0,Rejected ❌  ,,Decision Plot,I have little to no experience,"No ❌
+ "
+True,3.0,3.0,4.0,2.0,"Approved ✅
+  ",1.0,1.0,2.0,2.0,"Rejected ❌
+ ",1.0,1.0,2.0,2.0,Rejected ❌  ,The waterfall plot gives me an ultimate decision which is easier to read and then the bars show me what influenced the decision the most.,Waterfall Plot,I have some basic knowledge,Yes  ✅
+True,3.0,4.0,4.0,4.0,"Rejected ❌
+ ",3.0,3.0,4.0,3.0,"Rejected ❌
+ ",3.0,3.0,3.0,3.0,Rejected ❌  ,,Decision Plot,I have little to no experience,"No ❌
+ "
+True,4.0,4.0,3.0,2.0,"Approved ✅
+  ",4.0,4.0,4.0,4.0,"Approved ✅
+  ",2.0,2.0,2.0,2.0,Rejected ❌  ,,Decision Plot,I have advanced knowledge or experience,Yes  ✅
+True,,4.0,3.0,4.0,"Approved ✅
+  ",4.0,4.0,3.0,3.0,"Approved ✅
+  ",4.0,3.0,3.0,3.0,"Rejected ❌
+ ",A statement or a note stating what the decision was (Approval or Rejection) would obviously help. ,Waterfall Plot,I have some basic knowledge,
+True,3.0,3.0,2.0,2.0,"Approved ✅
+  ",3.0,3.0,3.0,2.0,"Approved ✅
+  ",3.0,3.0,3.0,2.0,Approved ✅   ,Weightage of different parameters is not clear ,,I have some basic knowledge,Yes  ✅
+True,2.0,2.0,3.0,1.0,"Approved ✅
+  ",2.0,2.0,2.0,2.0,"Approved ✅
+  ",3.0,3.0,3.0,2.0,Rejected ❌  ,Total score would make it clearer ,LIME Bar Chart,I have little to no experience,Yes  ✅
+True,3.0,3.0,3.0,2.0,"Approved ✅
+  ",3.0,2.0,2.0,2.0,"Rejected ❌
+ ",3.0,3.0,2.0,2.0,"Rejected ❌
+ ",,Waterfall Plot,I have little to no experience,
+True,3.0,3.0,3.0,3.0,"Approved ✅
+  ",2.0,2.0,2.0,2.0,"Rejected ❌
+ ",3.0,3.0,3.0,3.0,Rejected ❌  ,,Waterfall Plot,I have intermediate knowledge or experience,Yes  ✅
+True,4.0,4.0,4.0,3.0,"Approved ✅
+  ",3.0,3.0,3.0,3.0,"Approved ✅
+  ",4.0,3.0,3.0,3.0,Rejected ❌  ,A summary of the outcome,Waterfall Plot,I have little to no experience,"No ❌
+ "

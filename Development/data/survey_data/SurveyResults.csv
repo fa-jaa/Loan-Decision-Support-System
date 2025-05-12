@@ -1,0 +1,105 @@
+﻿"Submission ID","Last updated","Submission started","Status","Current step","I have read all of the above and agree to taking part in this survey","I understand why the model rejected/approved the loan.","The chart was easy to interpret. I could clearly identify what each part of the chart represents.","The chart was useful in helping me make an informed decision about the loan.","This explanation increases my trust in using an AI system for loan decisions.","Based on the graph is this loan approved or rejected ?","I understand why the model rejected/accepted the loan.","The chart was easy to interpret. I could clearly identify what each part of the chart represents. (1)","The chart was useful in helping me make an informed decision about the loan. (1)","This explanation increases my trust in using an AI system for loan decisions. (1)","Based on the graph is this loan approved or rejected ? (1)","I understand why the model rejected/accepted the loan. (1)","The chart was easy to interpret. I could clearly identify what each part of the chart represents. (2)","The chart was useful in helping me make an informed decision about the loan. (2)","This explanation increases my trust in using an AI system for loan decisions. (2)","Based on the graph is this loan approved or rejected ? (2)","Thinking about these explanation charts, what specific change or improvement would most help you better understand and trust the model's decision, and why?","Which graph do you think was the best overall in terms of understandability, usefulness, clarity, and trustworthiness?","Which statement best describes your experience with Machine Learning ?","Have you ever worked in the banking or finance industry ?","Errors","Url","Network ID"
+"e970273d-8de2-44d9-8684-7876e596df3c","Fri May 02 2025 10:06:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 14:02:00 GMT+0100 (British Summer Time)","finished","Ending","true","","","","","","","","","","","","","","","","","","","","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=e970273d-8de2-44d9-8684-7876e596df3c","e6ff8dafaf4a11893f316815e6e73441"
+"81a4b80b-57bd-4fe7-af18-06c44dac11ef","Sat Apr 19 2025 18:43:00 GMT+0100 (British Summer Time)","Sat Apr 19 2025 18:33:00 GMT+0100 (British Summer Time)","finished","Ending","true","3","4","3","3","Rejected ❌
+ ","4","4","4","4","Approved ✅
+  ","2","3","2","2","Rejected ❌  ","Having such individual input gives a score for each. Hiwever, adding a weighted score for each that aggregates into a final single score would be really helpful. Wherein if the overall score is below specific rate it would be automatically rejected and if above it quality for next assememt level or final approval. ","Decision Plot","I have intermediate knowledge or experience","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=81a4b80b-57bd-4fe7-af18-06c44dac11ef","3ff7fc175cdb8bc1a2b89ed856fc11b0"
+"7f28fc03-fd48-4010-a83d-4c872c198ff2","Sat Apr 19 2025 18:02:00 GMT+0100 (British Summer Time)","Sat Apr 19 2025 17:54:00 GMT+0100 (British Summer Time)","finished","Ending","true","4","2","3","2","Rejected ❌
+ ","1","3","3","1","Approved ✅
+  ","3","3","1","1","Rejected ❌  ","Easier to read.  But it needs modification and better explanation","Waterfall Plot","I have some basic knowledge","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=7f28fc03-fd48-4010-a83d-4c872c198ff2","3e596378c47e9b8d80980740e8b33119"
+"2118bef1-4f85-4fc9-9df7-d7a221120619","Sat Apr 19 2025 14:27:00 GMT+0100 (British Summer Time)","Sat Apr 19 2025 14:14:00 GMT+0100 (British Summer Time)","finished","Ending","true","4","4","3","3","Approved ✅
+  ","4","3","3","4","Rejected ❌
+ ","4","4","4","4","Rejected ❌  ","","LIME Bar Chart","I have intermediate knowledge or experience","Yes  ✅","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=2118bef1-4f85-4fc9-9df7-d7a221120619","68b25ff15339b3852fbf42855c9df8af"
+"54f4a08a-b675-4c29-a83e-3ecf3de6755c","Sat Apr 19 2025 10:06:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 18:32:00 GMT+0100 (British Summer Time)","finished","Ending","true","3","3","3","2","Approved ✅
+  ","3","3","3","2","Rejected ❌
+ ","2","2","2","2","Rejected ❌  ","","Waterfall Plot","I have some basic knowledge","Yes  ✅","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=54f4a08a-b675-4c29-a83e-3ecf3de6755c","92fa6f3db1f2400584f0a8817efb083d"
+"254c1ae0-660f-4fe8-a581-81bd872035b8","Fri Apr 18 2025 10:27:00 GMT+0100 (British Summer Time)","Fri Apr 18 2025 10:18:00 GMT+0100 (British Summer Time)","finished","Ending","true","3","3","3","3","Approved ✅
+  ","3","4","3","3","Approved ✅
+  ","3","3","3","3","Rejected ❌  ","","Decision Plot","I have some basic knowledge","Yes  ✅","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=254c1ae0-660f-4fe8-a581-81bd872035b8","c93030aaedd1025e18420a1ff95da0b0"
+"8d546d99-cb11-4226-add6-44fe8ca1e105","Fri Apr 18 2025 10:05:00 GMT+0100 (British Summer Time)","Fri Apr 18 2025 10:04:00 GMT+0100 (British Summer Time)","finished","Ending","true","3","3","3","3","Approved ✅
+  ","3","3","3","3","Approved ✅
+  ","3","3","3","3","Rejected ❌  ","","","I have some basic knowledge","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=8d546d99-cb11-4226-add6-44fe8ca1e105","d8ce7c30ac00a9e7754099665e49857c"
+"d6a49b31-6022-4f15-8150-28dd6f7576d2","Fri Apr 18 2025 09:28:00 GMT+0100 (British Summer Time)","Fri Apr 18 2025 09:18:00 GMT+0100 (British Summer Time)","finished","Ending","true","3","3","3","2","Approved ✅
+  ","4","4","4","3","Approved ✅
+  ","4","4","3","3","Rejected ❌  ","","Decision Plot","I have advanced knowledge or experience","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=d6a49b31-6022-4f15-8150-28dd6f7576d2","306ae167d21e515d78e7db508f6ac148"
+"fc1d454a-c4b0-49da-89b6-e83bd3b18276","Fri Apr 18 2025 07:47:00 GMT+0100 (British Summer Time)","Fri Apr 18 2025 07:38:00 GMT+0100 (British Summer Time)","finished","Ending","true","1","1","1","1","Rejected ❌
+ ","1","1","1","1","Rejected ❌
+ ","1","1","1","1","Rejected ❌  ","","Decision Plot","I have some basic knowledge","Yes  ✅","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=fc1d454a-c4b0-49da-89b6-e83bd3b18276","6f0d7c25b4a638eb8770190a5e60db27"
+"d81546e4-e9bf-40bb-a630-06392f1182d3","Fri Apr 18 2025 05:33:00 GMT+0100 (British Summer Time)","Fri Apr 18 2025 05:23:00 GMT+0100 (British Summer Time)","finished","Ending","true","4","2","3","3","Approved ✅
+  ","4","3","2","2","Rejected ❌
+ ","4","4","4","4","Rejected ❌  ","Having the model assess the future cashflow potential of the person to determine tbeir ability to pay. If the model is able to accessthe historical bank statements of the applicant, plus determining the age of the applicant, these will be good inputs for the model to assess previous historical cashflow and potential future cashflow bases on age and approximate retirement age.","LIME Bar Chart","I have some basic knowledge","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=d81546e4-e9bf-40bb-a630-06392f1182d3","10f2bf5fd535ade881ef9c60ea79a17f"
+"89578d93-5eff-437a-b6f8-37711947a463","Fri Apr 18 2025 04:22:00 GMT+0100 (British Summer Time)","Fri Apr 18 2025 04:12:00 GMT+0100 (British Summer Time)","finished","Ending","true","3","3","3","3","Approved ✅
+  ","3","3","3","","Approved ✅
+  ","3","3","3","3","Rejected ❌  ","","LIME Bar Chart","I have intermediate knowledge or experience","Yes  ✅","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=89578d93-5eff-437a-b6f8-37711947a463","e6801710368641d5e225cfc1cddc5995"
+"c8bea5dd-0ecb-4fa9-abdb-debed3a83d5b","Thu Apr 17 2025 20:41:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 20:21:00 GMT+0100 (British Summer Time)","finished","Ending","true","1","2","1","1","Approved ✅
+  ","2","3","3","2","Approved ✅
+  ","2","2","2","1","Approved ✅   ","For the graphs to be easily understood / read there should be a summation bar at the bottom for total red total green so it would be easy to see the summation of the comparison of green ( approval ) to red ( rejection)","LIME Bar Chart","I have little to no experience","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=c8bea5dd-0ecb-4fa9-abdb-debed3a83d5b","766c144e0ca95b9bc4a0bcc235d87fa8"
+"6f36ad0c-ebb1-4a44-ae7a-d729d6675946","Thu Apr 17 2025 20:17:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 20:10:00 GMT+0100 (British Summer Time)","finished","Ending","true","3","2","3","4","Approved ✅
+  ","4","3","2","2","Approved ✅
+  ","1","4","3","2","Rejected ❌  ","","Waterfall Plot","I have intermediate knowledge or experience","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=6f36ad0c-ebb1-4a44-ae7a-d729d6675946","92b3ba64c05dbb92e2fd9f6bb5079511"
+"3aa696ae-83b2-4836-b9b7-9d75ee3f5e03","Thu Apr 17 2025 20:13:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 20:07:00 GMT+0100 (British Summer Time)","finished","Ending","true","4","4","4","4","Approved ✅
+  ","4","4","4","4","","4","4","4","4","Rejected ❌  ","A helpful improvement would be adding concise tooltips or labels that explain each feature’s role and contribution more clearly (e.g., “higher income decreases risk”). This would make it easier for non-technical users to interpret the graph without prior machine learning knowledge. W","LIME Bar Chart","I have intermediate knowledge or experience","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=3aa696ae-83b2-4836-b9b7-9d75ee3f5e03","1324e458b1d23fc63dffaa60c0c95916"
+"a7052b45-23e9-41da-95ff-5b78460f855e","Thu Apr 17 2025 19:49:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 19:34:00 GMT+0100 (British Summer Time)","finished","Ending","true","3","1","3","4","Approved ✅
+  ","3","1","3","3","Approved ✅
+  ","3","2","2","3","Rejected ❌  ","Understanding the function f (x) and it's relevant to the task","Decision Plot","I have intermediate knowledge or experience","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=a7052b45-23e9-41da-95ff-5b78460f855e","84647d5b6e9e5437839121acd5395f31"
+"db669387-1974-452d-b781-c6fead0c1040","Thu Apr 17 2025 19:42:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 19:36:00 GMT+0100 (British Summer Time)","finished","Ending","true","2","2","2","1","Rejected ❌
+ ","2","2","2","1","Rejected ❌
+ ","3","3","3","2","Rejected ❌  ","","LIME Bar Chart","I have little to no experience","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=db669387-1974-452d-b781-c6fead0c1040","25a2a3406ca9e755e06b664101adf015"
+"577886c2-6cd3-49d9-8942-fd23e9694740","Thu Apr 17 2025 19:15:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 19:09:00 GMT+0100 (British Summer Time)","finished","Ending","true","4","3","4","4","Rejected ❌
+ ","1","1","1","1","Rejected ❌
+ ","4","3","4","4","Rejected ❌  ","Maybe clearer ratios and figures","Waterfall Plot","I have intermediate knowledge or experience","Yes  ✅","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=577886c2-6cd3-49d9-8942-fd23e9694740","e9e8a877e7c2ab5e42ad34d71411915b"
+"2617161d-6f18-4d31-acc9-f96334fc9faf","Thu Apr 17 2025 19:06:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 19:00:00 GMT+0100 (British Summer Time)","finished","Ending","true","3","2","3","3","Approved ✅
+  ","3","2","2","2","Approved ✅
+  ","","","","","","","Waterfall Plot","I have some basic knowledge","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=2617161d-6f18-4d31-acc9-f96334fc9faf","6368cd0586ac69b550c5b5fc38cf3358"
+"8f2d7c77-a4f8-436e-a04f-d59635498e29","Thu Apr 17 2025 19:04:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 18:58:00 GMT+0100 (British Summer Time)","finished","Ending","true","4","3","3","3","Rejected ❌
+ ","1","1","1","1","Rejected ❌
+ ","2","2","2","2","Rejected ❌  ","","Waterfall Plot","I have some basic knowledge","Yes  ✅","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=8f2d7c77-a4f8-436e-a04f-d59635498e29","8df49e84e3ea4cf459689b0a446fb8f6"
+"3f77351f-0dc0-4279-be1e-8634867f8b41","Thu Apr 17 2025 19:01:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 18:53:00 GMT+0100 (British Summer Time)","finished","Ending","true","2","2","3","3","Approved ✅
+  ","2","2","2","3","Approved ✅
+  ","1","3","1","2","Approved ✅   ","Clear definition of approval/rejection","","I have little to no experience","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=3f77351f-0dc0-4279-be1e-8634867f8b41","91c5d8532f5c688f683406b9df2ff7f2"
+"043dbab1-dc98-43c9-8be2-670d182bd927","Thu Apr 17 2025 18:57:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 18:19:00 GMT+0100 (British Summer Time)","finished","Ending","true","2","4","2","2","Approved ✅
+  ","3","3","3","3","Approved ✅
+  ","1","3","1","1","Rejected ❌  ","","Decision Plot","I have little to no experience","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=043dbab1-dc98-43c9-8be2-670d182bd927","0da98c9a001baa3766ca4cc968621957"
+"ba9e9d55-b510-4629-8334-0616e9164451","Thu Apr 17 2025 18:50:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 18:17:00 GMT+0100 (British Summer Time)","finished","Ending","true","3","3","4","2","Approved ✅
+  ","1","1","2","2","Rejected ❌
+ ","1","1","2","2","Rejected ❌  ","The waterfall plot gives me an ultimate decision which is easier to read and then the bars show me what influenced the decision the most.","Waterfall Plot","I have some basic knowledge","Yes  ✅","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=ba9e9d55-b510-4629-8334-0616e9164451","be578c23d583dcfd144f3745da44a0c2"
+"f46b3181-44f7-4881-8634-433f0cd8bb2a","Thu Apr 17 2025 18:47:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 18:44:00 GMT+0100 (British Summer Time)","finished","Ending","true","3","4","4","4","Rejected ❌
+ ","3","3","4","3","Rejected ❌
+ ","3","3","3","3","Rejected ❌  ","","Decision Plot","I have little to no experience","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=f46b3181-44f7-4881-8634-433f0cd8bb2a","c8cfdf286da84ad181a4ae3ce24c9241"
+"1a6fbe3a-3ef5-4879-9b98-7864b884af34","Thu Apr 17 2025 18:45:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 18:36:00 GMT+0100 (British Summer Time)","finished","Ending","true","4","4","3","2","Approved ✅
+  ","4","4","4","4","Approved ✅
+  ","2","2","2","2","Rejected ❌  ","","Decision Plot","I have advanced knowledge or experience","Yes  ✅","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=1a6fbe3a-3ef5-4879-9b98-7864b884af34","7a136605c917226e5e8dd3bc003858de"
+"8b40a835-11b8-4b10-a73b-c1bc684dd88a","Thu Apr 17 2025 18:43:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 17:08:00 GMT+0100 (British Summer Time)","finished","Ending","true","","4","3","4","Approved ✅
+  ","4","4","3","3","Approved ✅
+  ","4","3","3","3","Rejected ❌
+ ","A statement or a note stating what the decision was (Approval or Rejection) would obviously help. ","Waterfall Plot","I have some basic knowledge","","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=8b40a835-11b8-4b10-a73b-c1bc684dd88a","7113520c59ffcf383f1a11b5a71a1bd2"
+"1a8c2790-5a0f-4c82-adb8-eaf581f2e9dc","Thu Apr 17 2025 18:38:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 18:30:00 GMT+0100 (British Summer Time)","finished","Ending","true","3","3","2","2","Approved ✅
+  ","3","3","3","2","Approved ✅
+  ","3","3","3","2","Approved ✅   ","Weightage of different parameters is not clear ","","I have some basic knowledge","Yes  ✅","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=1a8c2790-5a0f-4c82-adb8-eaf581f2e9dc","8d559556847bb2fdc4ea2b60411847e3"
+"17820c91-069e-4fb2-bdcc-c633f02174b2","Thu Apr 17 2025 18:34:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 18:30:00 GMT+0100 (British Summer Time)","finished","Ending","true","2","2","3","1","Approved ✅
+  ","2","2","2","2","Approved ✅
+  ","3","3","3","2","Rejected ❌  ","Total score would make it clearer ","LIME Bar Chart","I have little to no experience","Yes  ✅","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=17820c91-069e-4fb2-bdcc-c633f02174b2","7b6ee78dc90605aeace7a58bb0efb9b0"
+"7afa545f-9ba7-40ce-b5ce-82ce24a1ccaf","Thu Apr 17 2025 18:32:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 17:44:00 GMT+0100 (British Summer Time)","finished","Ending","true","3","3","3","2","Approved ✅
+  ","3","2","2","2","Rejected ❌
+ ","3","3","2","2","Rejected ❌
+ ","","Waterfall Plot","I have little to no experience","","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=7afa545f-9ba7-40ce-b5ce-82ce24a1ccaf","b265937e7d9ecabdc32be442d05d5ca2"
+"65e8cc80-3cf9-4144-95d5-37a8aae3a2c5","Thu Apr 17 2025 18:28:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 18:18:00 GMT+0100 (British Summer Time)","finished","Ending","true","3","3","3","3","Approved ✅
+  ","2","2","2","2","Rejected ❌
+ ","3","3","3","3","Rejected ❌  ","","Waterfall Plot","I have intermediate knowledge or experience","Yes  ✅","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=65e8cc80-3cf9-4144-95d5-37a8aae3a2c5","dba507331537bf413deb0f00f10a8fdf"
+"c4e0a5c3-7f78-4438-a6cd-aa14f8af9f18","Thu Apr 17 2025 18:17:00 GMT+0100 (British Summer Time)","Thu Apr 17 2025 15:47:00 GMT+0100 (British Summer Time)","finished","Ending","true","4","4","4","3","Approved ✅
+  ","3","3","3","3","Approved ✅
+  ","4","3","3","3","Rejected ❌  ","A summary of the outcome","Waterfall Plot","I have little to no experience","No ❌
+ ","None","https://build.fillout.com/editor/gZiUUaRjTmus/results?sessionId=c4e0a5c3-7f78-4438-a6cd-aa14f8af9f18","d65cc1e9b91e2a65f019d116be835941"
