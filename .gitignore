@@ -46,4 +46,10 @@ Icon
 .com.apple.timemachine.donotpresent
 
 # Jupyter Notebook
-.ipynb_checkpoints 
+.ipynb_checkpoints
+
+# Large Data Files
+Development/data/hmda2017NYC.csv
+Development/data/datasets/loan_data.csv
+Development/loan_approval_data_processed.csv
+Development/data/datasets/Protected_loan_approval_data.csv 
